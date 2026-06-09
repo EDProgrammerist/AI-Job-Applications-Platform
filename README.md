@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="" target="_blank">
-      <img src="" alt="Project Banner">
+      <img src="https://github.com/EDProgrammerist/AI-Job-Applications-Platform/blob/main/public/images/banner.png?raw=true" alt="Project Banner">
     </a>
   <br />
 
